@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/11 13:52:33.129.pas,C:\Users\Tan Hwee Tiong\Documents\RAD Studio\Projects\Unit2.pas=C:\Projects\SW\Text2GB\Main.pas</Transaction>
+    <Transaction>2016/04/11 13:52:33.129.dfm,C:\Users\Tan Hwee Tiong\Documents\RAD Studio\Projects\Unit2.dfm=C:\Projects\SW\Text2GB\Main.dfm</Transaction>
+    <Transaction>2016/04/11 13:52:43.334.dproj,C:\Users\Tan Hwee Tiong\Documents\RAD Studio\Projects\Project2.dproj=C:\Projects\SW\Text2GB\Text2GB.dproj</Transaction>
+    <Transaction>2016/04/26 13:54:16.652.dproj,C:\Projects\SW\Text2GB\Text2GB.dproj=C:\Projects\SW\Text2GB\Txt2GB.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
